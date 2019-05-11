@@ -6,7 +6,7 @@
 - http://www.wikicfp.com/cfp/
 - https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
 
-## 期刊具体信息
+## 长投期刊具体信息（中等水平期刊）
 | Journal Name         | Full Name         | CCF Rank | SCI Rank     | URL | Period | IF   | Link of Letpub |
 |----------------------|-------------------|----------|--------------|-----|--------|--------|--------|
 | TKDE                 |  IEEE Transactions on Knowledge and Data Engineering   | A        | 三区（人工智能） |  [Click Here](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)  |3-8周 | 2.775     |   [Link](https://www.letpub.com.cn/index.php?journalid=3399&page=journalapp&view=detail) |
