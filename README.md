@@ -1,6 +1,10 @@
 # Journal-Information
 计算机期刊信息
 
+## 期刊信息查询网站
+- https://www.letpub.com.cn/index.php?page=journalapp
+- 公众号：中科院文献情报中心分区表
+
 ## 计算机会议Deadline的查看网站：
 - https://www.myhuiban.com/home
 - http://www.wikicfp.com/cfp/
