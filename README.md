@@ -1,5 +1,5 @@
 # Journal-Information
-计算机期刊信息
+计算机期刊信息（数据库/数据挖掘/内容检索/人工智能 等方向）
 
 ## 期刊信息查询网站
 - https://www.letpub.com.cn/index.php?page=journalapp
