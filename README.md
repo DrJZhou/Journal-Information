@@ -31,4 +31,4 @@
 | JIIS         | Journal of Intelligent Information Systems                        | C        | 四区             | [Click Here](https://www.springer.com/computer/database+management+&+information+retrieval/journal/10844) | 6-12周    | 1.107 | [Link](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=4697)   | 25(Single)  |                                                                             |
 
 
-###### 备注：期刊周期不一定可信，所有信息以目前19年为准。 页数为
+###### 备注：期刊周期不一定可信，所有信息以目前19年为准。 页数为大多数情况下页面数目。
