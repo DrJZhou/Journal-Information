@@ -1,12 +1,12 @@
 # Journal-Information
 计算机期刊信息
 
-## 查看计算机会议Deadline的网站：
+## 计算机会议Deadline的查看网站：
 - https://www.myhuiban.com/home
 - http://www.wikicfp.com/cfp/
 - https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
 
-
+## 期刊具体信息
 | Journal Name         | Full Name         | CCF Rank | SCI Rank     | URL | Period | IF   | Link of Letpub |
 |----------------------|-------------------|----------|--------------|-----|--------|--------|--------|
 | TKDE                 |  IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING    | A        | 三区（人工智能） |  [Click Here](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)  |3-8周 | 2.775     |   [Link](https://www.letpub.com.cn/index.php?journalid=3399&page=journalapp&view=detail) |
