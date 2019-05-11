@@ -1,5 +1,10 @@
 # Journal-Information
-The information of computer journal
+计算机期刊信息
+
+## 查看计算机会议Deadline的网站：
+- https://www.myhuiban.com/home
+- http://www.wikicfp.com/cfp/
+- https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
 
 
 | Journal Name         | Full Name         | CCF Rank | SCI Rank     | URL | Period | IF   | Link of Letpub |
