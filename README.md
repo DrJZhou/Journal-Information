@@ -29,7 +29,7 @@
 | DMKD         | Data Mining and Knowledge Discovery                               | B        | 二区             | [Click Here](https://link.springer.com/journal/10618)                                                     | 6个月     | 2.481 | [Link](https://www.letpub.com.cn/index.php?journalid=2229&page=journalapp&view=detail)  | 25-35(Single)   |
 | IS           | Information Systems                                               | B        | 三区             | [Click Here](https://www.journals.elsevier.com/information-systems)                                       | 6个月     | 2.551 | [Link](https://www.letpub.com.cn/index.php?journalid=3568&page=journalapp&view=detail)  | 10(double)      |
 | JIIS         | Journal of Intelligent Information Systems                        | C        | 四区             | [Click Here](https://www.springer.com/computer/database+management+&+information+retrieval/journal/10844) | 6-12周    | 1.107 | [Link](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=4697)   | 25(Single)      |
-|Bioinformatics| Bioinformatics | B|一区|[Click Here](https://academic.oup.com/bioinformatics/)|1.8个月| 4.531| [Link](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1122&xuanxiangk_id=2#xuanxk_3)| 8(double)|
+|Bioinformatics| Bioinformatics | B|一区|[Click Here](https://academic.oup.com/bioinformatics/)|1.8个月| 4.531| [Link](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1122&xuanxiangk_id=2#xuanxk_3)| 7(double)|
 
 
 ###### 备注：期刊周期不一定可信，所有信息以目前19年为准。 页数为大多数情况下页面数目。
